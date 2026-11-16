@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/master_sample/*
+!data/master_sample/.gitkeep
+data/inspections/*
+!data/inspections/.gitkeep
